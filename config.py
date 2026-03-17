@@ -107,7 +107,7 @@ class Txt(object):
 <b>📢 Channel :</b> <a href='https://t.me/tech_freak_tamil'>TFT BOTS</a>
 <b>🛡️ :</b> <a href='https://t.me/+NITVxLchQhYzNGZl'>TFT Developer</a>
     
-<b>😈 Bot Made By :</b> @tech_freak_tamil"""
+<b>😈 Bot Made By :<b>I was created by 👉 <a href='https://t.me/KejoBotzRealm'>KEJO BOTZ REALM</a></b>"""
 
 
 # Tech freak 
