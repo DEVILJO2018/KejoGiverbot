@@ -8,8 +8,8 @@ from config import *
 from helper_func import *
 from database.database import add_user, del_user, full_userbase, present_user
 
-TECH_FREAK = FILE_AUTO_DELETE
-TFT_DEV = TECH_FREAK
+KEJO_REALM = FILE_AUTO_DELETE
+KEJO_DEV = KEJO_REALM
 file_auto_delete = humanize.naturaldelta(TFT_DEV)
 
 
@@ -100,7 +100,7 @@ async def start_command(client: Client, message: Message):
     else:
         reply_markup = InlineKeyboardMarkup([[
             InlineKeyboardButton("⚔️Update Channel", url="https://t.me/KejoBotzRealm"),
-            InlineKeyboardButton("🛡️Support Group", url="https://t.me/+NITVxLchQhYzNGZl")
+            InlineKeyboardButton("🛡️Support Group", url="https://t.me/KejoBotzRealm")
             ],[
             InlineKeyboardButton("📢Help", callback_data="help"),
             InlineKeyboardButton("⚡About", callback_data="about")
