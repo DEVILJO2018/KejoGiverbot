@@ -109,7 +109,7 @@ async def start_command(client: Client, message: Message):
         ]])
         await message.reply_photo(
             photo= START_PIC,
-            caption=f"<b>Hi {message.from_user.mention} Friend I am an Advance File Store bot 😈\n\nI was created by 👉 <a href='https://t.me/KejoBotzRealm'>KEJO BOTZ REALM</a></b>",
+            caption=f"<b>Hi {message.from_user.mention} Friend I am an Advance File Store bot 😈\n\nI was created by 👉 <a href='https://t.me/@KejoRealm'>@KejoRealm</a></b>",
                 
                 
                 
