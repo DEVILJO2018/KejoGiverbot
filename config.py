@@ -105,7 +105,7 @@ class Txt(object):
 <b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
 <b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
 <b>📢 Channel :</b> <a href='https://t.me KejoRealm'>@KejoRealm</a>
-<b>👨‍💻 Developer : ARUKN</b>\n\n<b> </b>"
+<b>👨‍💻 Developer : @ARUKN</b>\n\n<b> </b>"
     
 <b>😈 Bot Made By :<b>I was created by 👉 <a href='https://t.me/@KejoRealm'>@KejoRealm</a></b>"""
 
