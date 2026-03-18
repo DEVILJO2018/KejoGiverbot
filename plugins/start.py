@@ -10,7 +10,7 @@ from database.database import add_user, del_user, full_userbase, present_user
 
 KEJO_REALM = FILE_AUTO_DELETE
 KEJO_DEV = KEJO_REALM
-file_auto_delete = humanize.naturaldelta(TFT_DEV)
+file_auto_delete = humanize.naturaldelta(KEJO_DEV)
 
 
 
