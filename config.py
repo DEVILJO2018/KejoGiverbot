@@ -101,14 +101,20 @@ def LOGGER(name: str) -> logging.Logger:
    
 
 class Txt(object):
-    about = f"""<b>😈 My Name :</b> <a href=''>[@KejoGiverbot ] File store bot 😈 </a>
-<b>📝 Language :</b> <a href='https://python.org'>Python 3</a>
-<b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
-<b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
-<b>📢 Channel :</b> <a href='https://t.me KejoRealm'>@KejoRealm</a>
-<b>👨‍💻 Developer : @ARUKN</b>\n\n<b> </b>"
+        about = "<b>Name :</b> <a href='https://t.me/KejoGiverbot'>Kejo Giver Bot 😈</a>\n" \
+            "<b>Language :</b> Python 3\n" \
+            "<b>Library :</b> Pyrogram 2.0\n" \
+            "<b>Server :</b> Render\n" \
+            "<b>Channel :</b> <a href='https://t.me/KejoRealm'>@KejoRealm</a>\n" \
+            "<b>Developer :</b> <a href='https://t.me/ARUKN'>ARUKN</a>\n\n" \
+            "<b>Bot Made By :</b> <a href='https://t.me/KejoRealm'>KEJO BOTZ REALM</a>"
+
+
+
+
+
     
-<b>😈 Bot Made By :<b>I was created by 👉 <a href='https://t.me/@KejoRealm'>@KejoRealm</a></b>"""
+
 
 
 # @KejoRealm 
