@@ -106,7 +106,8 @@ class Txt(object):
             "<b>Library :</b> Pyrogram 2.0\n" \
             "<b>Server :</b> Render\n" \
             "<b>Channel :</b> <a href='https://t.me/KejoRealm'>@KejoRealm</a>\n" \
-            "<b>Developer :</b> <a href='https://t.me/ARUKN'>ARUKN</a>\n\n" \
+            "<b>Developer :</b> <a href='https://t.me/உங்க_ID_இங்க_போடுங்க'>ARUKN</a>\n\n" \
+
             "<b>Bot Made By :</b> <a href='https://t.me/KejoRealm'>KEJO BOTZ REALM</a>"
 
 
