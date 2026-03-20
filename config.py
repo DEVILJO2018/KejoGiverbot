@@ -67,7 +67,8 @@ BOT_STATS_TEXT = "<b>BOT UPTIME :</b>\n{uptime}"
 
 USER_REPLY_TEXT = "❌Sry You can't Able to Message me !\n\n» My Owner 👉 "
 
-START_MSG = os.environ.get("START_MESSAGE", "<b>Hi {first} Friend I am a Advance File Store bot 😈 \n\n I was created by 👉 @KejoRealm </b>")
+START_MSG = os.environ.get("START_MESSAGE", "<b>Hi {first} Friend I am an Advance File Store bot 😈 \n\n I was created by 👉 <a href='https://t.me/KejoRealm'>@KejoRealm</a> </b>")
+
 
 
 FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "𝐒𝐨𝐫𝐫𝐲 {first} You must join the given channels ..\n\n 𝐒𝐨 please join and  “𝐍𝐨𝐰 𝐂𝐥𝐢𝐜𝐤 𝐡𝐞𝐫𝐞” 𝐛𝐮𝐭𝐭𝐨𝐧....!")
@@ -101,14 +102,21 @@ def LOGGER(name: str) -> logging.Logger:
    
 
 class Txt(object):
-        about = "<b>Name :</b> <a href='https://t.me/KejoGiverbot'>Kejo Giver Bot 😈</a>\n" \
+            about = "<b>Name :</b> <a href='https://t.me/KejoGiverbot'>Kejo Giver Bot 😈</a>\n" \
             "<b>Language :</b> Python 3\n" \
             "<b>Library :</b> Pyrogram 2.0\n" \
             "<b>Server :</b> Render\n" \
             "<b>Channel :</b> <a href='https://t.me/KejoRealm'>@KejoRealm</a>\n" \
-            "<b>Developer :</b> <a href='https://t.me/உங்க_ID_இங்க_போடுங்க'>ARUKN</a>\n\n" \
-
+            "<b>Developer :</b> <a href='https://t.me/ARUKN_TG'>ARUKN</a>\n\n" \
             "<b>Bot Made By :</b> <a href='https://t.me/KejoRealm'>KEJO BOTZ REALM</a>"
+
+            
+            
+            
+            
+            
+
+            
 
 
 
