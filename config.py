@@ -101,7 +101,7 @@ def LOGGER(name: str) -> logging.Logger:
     return logging.getLogger(name)
    
 
-class txt(object):
+class Txt(object):
     about = "<b>Name :</b> <a href='https://t.me/KejoGiverbot'>Kejo Giver Bot 😈</a>\n" \
             "<b>Language :</b> Python 3\n" \
             "<b>Library :</b> Pyrogram 2.0\n" \
