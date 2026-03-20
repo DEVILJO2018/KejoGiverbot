@@ -101,14 +101,22 @@ def LOGGER(name: str) -> logging.Logger:
     return logging.getLogger(name)
    
 
-class Txt(object):
-            about = "<b>Name :</b> <a href='https://t.me/KejoGiverbot'>Kejo Giver Bot 😈</a>\n" \
+class txt(object):
+    about = "<b>Name :</b> <a href='https://t.me/KejoGiverbot'>Kejo Giver Bot 😈</a>\n" \
             "<b>Language :</b> Python 3\n" \
             "<b>Library :</b> Pyrogram 2.0\n" \
             "<b>Server :</b> Render\n" \
             "<b>Channel :</b> <a href='https://t.me/KejoRealm'>@KejoRealm</a>\n" \
-            "<b>Developer :</b> <a href='https://t.me/ARUKN_TG'>ARUKN</a>\n\n" \
+            "<b>Developer :</b> <a href='https://t.me/Kejo_Arukn'>ARUKN</a>\n\n" \
             "<b>Bot Made By :</b> <a href='https://t.me/KejoRealm'>KEJO BOTZ REALM</a>"
+
+            
+            
+            
+            
+            
+            
+            
 
             
             
