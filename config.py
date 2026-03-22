@@ -10,9 +10,9 @@ API_ID = int(os.environ.get("API_ID", ""))
 API_HASH = os.environ.get("API_HASH", "")
 
 
-OWNER_ID = int(os.environ.get("OWNER_ID", "6299192020"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "6406817014"))
 DB_URL = os.environ.get("DB_URL", "")
-DB_NAME = os.environ.get("DB_NAME", "Tecfreaktamil")
+DB_NAME = os.environ.get("DB_NAME", "KejoRealm")
 
 
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003094784222"))
@@ -38,7 +38,7 @@ TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
 try:
     ADMINS=[6406817014,6612867056]
-    for x in (os.environ.get("ADMINS", "6299192020").split()):
+    for x in (os.environ.get("ADMINS", "6406817014").split()):
         ADMINS.append(int(x))
 except ValueError:
         raise Exception("Your Admins list does not contain valid integers.")
@@ -102,8 +102,17 @@ def LOGGER(name: str) -> logging.Logger:
    
 
 class Txt(object):
-      
-          About_TXT = """
+   
+         
+
+
+
+  
+            
+            
+            
+            
+  about = """
 😈 **My Name : [ARUKN] File store bot** 😈
 📝 **Language :** Python 3
 📚 **Library :** Pyrogram 2.0
@@ -112,13 +121,7 @@ class Txt(object):
 🛡️ **Developer :** [🔥ARUKN💥💕](https://t.me/ARUKN_TG)
 
 😈 **Bot Made By : I was created by** 👉 [KEJO BOTZ REALM](https://t.me/KejoRealm)
-"""
-  
-            
-            
-            
-            
-             
+"""           
             
             
             
