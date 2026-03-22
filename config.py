@@ -112,16 +112,16 @@ class Txt(object):
             
             
             
-  about = """
+     about = """
 😈 My Name : [ARUKN] File store bot 😈
 📝 Language : Python 3
 📚 Library : Pyrogram 2.0
 🚀 Server : Render
-📢 Channel : [Kejo Botz Realm](https://t.me/KejoRealm)
-🛡️ Developer : [🔥ARUKN💥💕](https://t.me/ARUKN_REALM)
+📢 Channel : <a href='https://t.me/KejoRealm'>Kejo Botz Realm</a>
+🛡️ Developer : <a href='https://t.me/ARUKN_REALM'>🔥ARUKN💥💕</a>
 
-😈 Bot Made By : I was created by 👉 [KEJO BOTZ REALM](https://t.me/KejoRealm)
-"""     
+😈 Bot Made By : I was created by 👉 <a href='https://t.me/KejoRealm'>KEJO BOTZ REALM</a>
+"""    
             
             
             
