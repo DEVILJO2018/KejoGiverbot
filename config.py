@@ -102,13 +102,23 @@ def LOGGER(name: str) -> logging.Logger:
    
 
 class Txt(object):
-      about = "<b>Name :</b> <a href='http://t.me/KejoGiverbot'>http://t.me/KejoGiverbot 😈</a>\n" \
-            "<b>Language :</b> Python 3\n" \
-            "<b>Library :</b> Pyrogram 2.0\n" \
-            "<b>Server :</b> Render\n" \
-            "<b>Channel :</b> <a href='https://t.me/KejoRealm'>@KejoRealm</a>\n" \
-            "<b>Developer :</b> <a href='https://t.me/ARUKN'>🔥ARUKN💥💞</a>\n\n" \
-            "<b>Bot Made By :</b> <a href='https://t.me/KejoRealm'>KEJO BOTZ REALM</a>"  
+      
+          FORCE_MSG = """
+😈 **My Name : [ARUKN] File store bot** 😈
+📝 **Language :** Python 3
+📚 **Library :** Pyrogram 2.0
+🚀 **Server :** Render
+📢 **Channel :** [Kejo Botz Realm](https://t.me/KejoRealm)
+🛡️ **Developer :** [🔥ARUKN💥💕](https://t.me/ARUKN_TG)
+
+😈 **Bot Made By : I was created by** 👉 [KEJO BOTZ REALM](https://t.me/KejoRealm)
+"""
+  
+            
+            
+            
+            
+             
             
             
             
