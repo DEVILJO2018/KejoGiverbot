@@ -113,15 +113,15 @@ class Txt(object):
             
             
   about = """
-😈 My Name  : [ARUKN] File store bot😈
-📝 Language : Python 3
-📚 Library  :  Pyrogram 2.0
-🚀 Server   : Render
-📢 Channel  : KejoRealm)
-🛡️ Developer: [🔥ARUKN💥💕](@ARUKN)
+😈 My Name : [ARUKN] File store bot 😈
+📝 Language: Python 3
+📚 Library : Pyrogram 2.0
+🚀 Server  : Render
+📢 Channel : [Kejo Botz Realm](https://t.me/KejoRealm)
+🛡️Developer: [🔥ARUKN💥💕](https://t.me/ARUKN_REALM)
 
-😈Bot Made By : I was created by 👉 [KEJOBOTZREALM](KejoRealm)
-"""           
+😈Bot Made By : I was created by 👉 [KEJO BOTZ REALM](https://t.me/KejoRealm)
+"""         
             
             
             
