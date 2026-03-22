@@ -103,7 +103,7 @@ def LOGGER(name: str) -> logging.Logger:
 
 class Txt(object):
       
-          FORCE_MSG = """
+          ABOUT_TXT = """
 😈 **My Name : [ARUKN] File store bot** 😈
 📝 **Language :** Python 3
 📚 **Library :** Pyrogram 2.0
