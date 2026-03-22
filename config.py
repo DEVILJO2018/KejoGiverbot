@@ -67,7 +67,9 @@ BOT_STATS_TEXT = "<b>BOT UPTIME :</b>\n{uptime}"
 
 USER_REPLY_TEXT = "❌Sry You can't Able to Message me !\n\n» My Owner 👉 "
 
-START_MSG = os.environ.get("START_MESSAGE", "<b>Hi {first} Friend I am an Advance File Store bot 😈 \n\n I was created by 👉 <a href='https://t.me/KejoRealm'>https://t.me/KejoRealm</a> </b>")
+START_MSG = os.environ.get("START_MESSAGE", "<b>Hi {first} Friend I am an Advance File Store bot 😈
+
+I was created by 👉 <a href='https://t.me/KejoRealm'>@KejoRealm</a> 
 
 
 
