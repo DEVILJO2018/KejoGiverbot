@@ -69,20 +69,6 @@ USER_REPLY_TEXT = "❌Sry You can't Able to Message me !\n\n» My Owner 👉 "
 
 START_MSG = "<b>Hi {first} Friend I am an Advance File Store bot 😈\n\nI was created by 👉 <a href='https://t.me/KejoRealm'>@KejoRealm</a></b>"
 
-I was created by 👉 <a href='https://t.me/KejoRealm'>@KejoRealm</a>
-"""
-
-I was created by 👉 <a href='https://t.me/KejoRealm'>@KejoRealm</a>
-"""
-
-I can store files and provide links to share with others. 
-
-📢 Channel : <a href='https://t.me/KejoRealm'>Kejo Botz Realm</a>
-🛡️ Developer : <a href='https://t.me/ARUKN_REALM'>🔥ARUKN💥💕</a>
-
-😈 Bot Made By : I was created by 👉 <a href='https://t.me/KejoRealm'>KEJO BOTZ REALM</a>
-"""
-
 
 
 
@@ -129,7 +115,7 @@ class Txt(object):
             
             
      about = """
-😈 My Name : [ARUKN] File store bot 😈
+😈 My Name : [KEJO] File store bot 😈
 📝 Language : Python 3
 📚 Library : Pyrogram 2.0
 🚀 Server : Render
