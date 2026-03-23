@@ -11,7 +11,7 @@ API_HASH = os.environ.get("API_HASH", "")
 
 
 OWNER_ID = int(os.environ.get("OWNER_ID", "6406817014"))
-DB_URL = os.environ.get("DB_URL", "")
+DB_URL = os.environ.get("DB_URL", "KejoRealm")
 DB_NAME = os.environ.get("DB_NAME", "KejoRealm")
 
 
@@ -67,8 +67,7 @@ BOT_STATS_TEXT = "<b>BOT UPTIME :</b>\n{uptime}"
 
 USER_REPLY_TEXT = "❌Sry You can't Able to Message me !\n\n» My Owner 👉 "
 
-START_MSG = """
-Hi {first} Friend! I am an Advance File Store bot.
+START_MSG = "<b>Hi {first} Friend I am an Advance File Store bot 😈\n\nI was created by 👉 <a href='https://t.me/KejoRealm'>@KejoRealm</a></b>"
 
 I was created by 👉 <a href='https://t.me/KejoRealm'>@KejoRealm</a>
 """
